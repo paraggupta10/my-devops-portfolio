@@ -25,7 +25,6 @@
   },
   "scripts": {
     "build": "next build",
-    "export": "next export",
     "deploy": "gh-pages -d out"
   },
 "homepage": "https://paraggupta10.github.io/my-devops-portfolio"
